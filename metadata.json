@@ -1,0 +1,5 @@
+{
+  "name": "Building Defect Detector",
+  "description": "An AI-powered application to analyze images of buildings, detect structural and cosmetic defects, and classify them into categories like cracks, spalling, and more using the Gemini API.",
+  "requestFramePermissions": []
+}
